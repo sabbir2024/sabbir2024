@@ -18,6 +18,5 @@ Skills:  REACT / JS / HTML / CSS / TAILDWINDCSS / MONGODB /  Express /AngularJS 
 
 
 [![Sabbir Hossen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sabbir2024&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sabbir2024)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sabbir2024/&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/sabbir2024/) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
