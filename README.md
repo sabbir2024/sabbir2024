@@ -4,7 +4,7 @@
 
 Passionate about crafting dynamic web solutions, I prioritize user-centric design and collaboration. Constantly seeking to innovate and make a positive impact, I'm eager to connect and create something amazing together!
 
-Skills:  REACT / JS / HTML / CSS / 
+Skills:  REACT / JS / HTML / CSS / TAILDWINDCSS / MONGODB /  Express /AngularJS / Node
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
